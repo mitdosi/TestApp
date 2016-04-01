@@ -10,6 +10,9 @@ public class PracticeGit {
 		p.setB(10);
 		System.out.println(p.comp(p.getA(), p.getB()));
 		
+		
+		//this comment to check things are working out 
+		
 	}
 
 }
