@@ -13,6 +13,8 @@ public class PracticeGit {
 		
 		//this comment to check things are working out 
 		
+		System.out.println("hello git");
+		
 	}
 
 }

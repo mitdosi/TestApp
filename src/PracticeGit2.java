@@ -22,7 +22,9 @@ public class PracticeGit2 {
 	
 	boolean comp(int xy, int zx){
 		if(xy == zx){
+			System.out.println("hello there");
 			return true;
+			
 		}
 		else {
 			return false;
